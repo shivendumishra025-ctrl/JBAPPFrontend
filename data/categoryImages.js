@@ -1,0 +1,23 @@
+export const categoryImages = {
+  All: require('../../assets/images/All.png'),
+  "BEVERAGES": require('../../assets/images/Veg Main Course.png'),
+  "VEG STARTER": require('../../assets/images/Veg Starter.png'),
+  "NON-VEG STARTER": require('../../assets/images/Non-Veg Main Course.png'),
+  "EGGS": require('../../assets/images/Non-Veg Starter.png'),
+  MUTTON: require('../../assets/images/Biryani.png'),
+  CHICKEN: require('../../assets/images/Thali.png'),
+  PRAWNS: require('../../assets/images/Thali.png'),
+  "MAIN COURSE VEG": require('../../assets/images/Thali.png'),
+  "MAIN COURSE CHICKEN": require('../../assets/images/Thali.png'),
+  "MAIN COURSE EGGS": require('../../assets/images/Thali.png'),
+  "MAIN COURSE PRAWNS": require('../../assets/images/Thali.png'),
+  "MAIN COURSE MUTTON": require('../../assets/images/Thali.png'),
+  "DAL": require('../../assets/images/Thali.png'),
+  "RICE,PULAO": require('../../assets/images/Thali.png'),
+  "BIRYANI": require('../../assets/images/Thali.png'),
+  "BREAD": require('../../assets/images/Thali.png'),
+  "SPECIAL THALI ": require('../../assets/images/Thali.png'),
+  "DESSERT ": require('../../assets/images/Thali.png'),
+  "CHUTNEY ": require('../../assets/images/Thali.png'),
+};
+// "All", "Veg Main Course", "Veg Starter", "Non-Veg Main Course", "Non-Veg Starter", "Biryani", "Thali"

@@ -1,0 +1,308 @@
+[
+    {
+        "name": "Fish fry [2 pieces]",
+        "description": "Boneless bhetki fish marinate with authentic bengali spices, coated with bread crumbs.",
+        "price": "358",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/15ecdf0d-d0f8-4f1b-a612-f05ed5454584_7b51de02-94e3-4e83-90f4-accb44c7415f.jpeg"
+    },
+    {
+        "name": "Fish finger [6 pieces]",
+        "description": "Boneless bhetki fish marinate with authentic bengali spices, coated with bread crumbs and deep fried.",
+        "price": "390",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/9270ed1b-f327-48af-94a4-30a301304d2b_750bded6-2773-4a40-8517-aad403724560.jpeg"
+    },
+    {
+        "name": "Chicken cutlet [2 pieces]",
+        "description": "A flavourful cutlet made from minced chicken, coated with bread crumbs and deep fried.",
+        "price": "260",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/a5980cc1-b747-4ab5-bf7c-dd8336a8b7ad_608eb745-4888-4063-b234-168dee5e82cd.jpeg"
+    },
+    {
+        "name": "Bhetki fish kabiraji [1 piece]",
+        "description": "Fish cutlet deep fried with lacy egg nest, a bengali favourite, don t count the calories.",
+        "price": "398",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/6b83169a-91ba-423e-8956-3fde08ab538e_a27b03f7-2ba5-4d52-9054-9e02d6f5cb65.jpeg"
+    },
+    {
+        "name": "Chicken chop [2 pieces]",
+        "description": "Minced chicken marinate with authentic bengali spice, crumbed and deep fried.",
+        "price": "228",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/b090743f-33ef-4188-88f2-f9c451b85bc4_18fd5680-33b5-4426-9281-b3a12d0bfd82.jpeg"
+    },
+    {
+        "name": "Egg devil [2 pieces]",
+        "description": "Boiled egg wrapped with mix veggies, coated with bread crumbs and deep fried.",
+        "price": "99",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/a8e9ae44-75dd-446e-8ef7-469f205951b0_dea16214-ed30-4605-968e-f25ed8792cac.jpeg"
+    },
+    {
+        "name": "Basanti pulao+chicken kosha+[2 pieces]",
+        "description": "Jhoori Aloo Bhaja+Sweets.",
+        "price": "330",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/632c6fcf-d093-42e6-a38c-83359ea27cfd_63e9470f-1acc-4040-98bf-9353d1ea6b5b.jpeg"
+    },
+    {
+        "name": "Radhaballavi+Aloo Dom+Sweet",
+        "description": "Veg Item. Radhaballavi+Aloo Dom+Sweet. Costs: 240 rupees, Swipe right to add item to cart.",
+        "price": "240",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/8dbf73f4-f6c1-41f7-89c4-d518f6c9ed32_baf827f0-a378-4c7e-ad9f-b79cf28d685c.jpeg"
+    },
+    {
+        "name": "Steamed rice+murgi jhol+aloo +",
+        "description": "Jhoori Aloo Bhaja+Sweets.",
+        "price": "310",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/fdd578df-67f4-4984-a6b2-a103d30972e3_27c98f9c-04f6-49f0-b1fa-c776983f5005.jpeg"
+    },
+    {
+        "name": "Steamed rice+aloo posto+moong dal+sweets",
+        "description": "Veg Item. Steamed rice+aloo posto+moong dal+sweets. Costs: 249 rupees, Swipe right to add item to cart.",
+        "price": "249",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/2f1703f2-56d8-4dcd-9690-f909072c3027_262df313-ab1d-4eab-ae7d-bb9255c0a519.jpeg"
+    },
+    {
+        "name": "Steamed rice+dhokar dalna+[3 pieces]",
+        "description": "Jhoori Aloo Bhaja+Sweets.",
+        "price": "250",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/1afff61b-4bae-4701-8630-f135d3fdd34c_6faa2bae-fe7c-45fe-99c6-4f85bb8a0a65.jpeg"
+    },
+    {
+        "name": "Deem aloo jhol [3 pieces]",
+        "description": "Eggs slowly cooked in a thin gravy with potato, flavoured of garam masala.",
+        "price": "228",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/b4ebd2ce-4f69-4dad-bc66-780afb0d3f37_7881791a-c2e1-4dff-842e-059ca4fb23f9.jpeg"
+    },
+    {
+        "name": "Chicken dukbanglow [4 pieces]",
+        "description": "Tender chicken and egg cooked in tangy and spice gravy, an authentic flavoured of bengal.",
+        "price": "364",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/ea159b05-a962-4ac4-9a32-a3aa542ecd58_c50c95f2-d5a1-459e-a0bc-887b72e3dfea.jpeg"
+    },
+    {
+        "name": "Bhetki macher kalia",
+        "description": "Boneless bhetki fish slowly cooked in tomato and onion gravy with flavour of garam masala.",
+        "price": "390",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/11/45ac14ff-cdfd-47ef-b6f4-5e84b85dd38c_adc51f1d-dc00-41d3-9d6d-130e01655622.JPG"
+    },
+    {
+        "name": "Chicken kosha [4 pieces]",
+        "description": "Tender chicken slowly cooked in thick and rich gravy with garam masala flavoured.",
+        "price": "351",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/3e8bf491-cc85-4d24-9c92-32c6309ac575_71e752a8-b216-42d4-8198-ada4024fb865.jpeg"
+    },
+    {
+        "name": "Sundarban chicken [4 pieces]",
+        "description": "Tender chicken slowly cooked in a thick and rich,.",
+        "price": "364",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/a417a100-e0dd-4492-a512-77990cb655ab_66a4979c-a142-43a1-9f56-5bef312a5f12.jpeg"
+    },
+    {
+        "name": "Bhetki macher shorshe jhal [2 pieces]",
+        "description": "Boneless bhetki fish slowly cooked in mustrad gravy and mustard oil.",
+        "price": "390",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/cb13c88c-abd9-401d-ba21-f751130f5f30_8dffb507-74c7-4ce6-8447-f7ed89260d8f.jpeg"
+    },
+    {
+        "name": "Deem kosha [3 pieces]",
+        "description": "Eggs cooked in thick and rich gravy, flavoured of garam masala.",
+        "price": "195",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/724f8cf9-b369-44c1-b76a-f8a3ceed39a2_d53f268f-0047-4bab-8279-718e76160c39.jpeg"
+    },
+    {
+        "name": "Sukto",
+        "description": "Classic bengali mixed vegetables with coconut.",
+        "price": "182",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/27/f5734ddb-cc89-4dd5-b399-1c7661e8a36f_bb3b91fd-c759-4eba-a417-2a68e20e312b.JPG"
+    },
+    {
+        "name": "Aloo Dum",
+        "description": "Taste the rich and creamy aloo slow cooked in curd based curry.",
+        "price": "159",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/11/bde34e38-6374-467b-8303-0cbd6ecd0bfc_11319168-60c4-4da2-a9c7-530f024ad81c.JPG"
+    },
+    {
+        "name": "Aloo posto",
+        "description": "Cube size potatoes slowly cooked with mustard oil and poppy seeds paste.",
+        "price": "221",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/7510bb30-72eb-48d8-a12a-b141584b1151_586d080c-e6c2-4b97-aa19-d0046140153f.jpeg"
+    },
+    {
+        "name": "Paneer masala",
+        "description": "Marinated paneer cubes cooked in thick and rich gravy, flavoured of garam masala.",
+        "price": "358",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/11/a69b0bcc-4a0a-471e-b2f8-74d76044c3ec_60446f99-e8ca-4438-bcb2-30f281292751.JPG"
+    },
+    {
+        "name": "Muttor paneer",
+        "description": "Green peas and paneer in a tomato souce, spiced with garam masala.",
+        "price": "325",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/9d12a127-f0ca-456d-95d0-892e90362f0d_427f51a4-9801-4c6b-822d-bdb125242e8b.jpeg"
+    },
+    {
+        "name": "Dhokar dalna [6 pieces]",
+        "description": "Lentil cakes soaked in delicious bengali style curry.",
+        "price": "195",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/515096e5-77a1-4b65-a8eb-847e50a3dc69_4b51bade-0406-46cf-9390-86ed4bc9bf1a.jpeg"
+    },
+    {
+        "name": "Aloo phulkopir dalna",
+        "description": "Potatoes and cauliflower are cooked to perfection in a tomato and spices base gravy.",
+        "price": "182",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/11/8e176672-4631-44e4-a609-1b6e172de0c1_aeecc0ef-e93d-497e-b92d-6ca42d8a1ecd.JPG"
+    },
+    {
+        "name": "Veg chop [2 pieces]",
+        "description": "Crumbed and fried croquets with mixed vegetable filling.",
+        "price": "99",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/f88f3e96-e19c-4e3a-8c62-7bb7c8167bd3_929ca3d5-1374-43be-9122-be5a7bd16c1f.jpeg"
+    },
+    {
+        "name": "Veg cutlet [2 pieces]",
+        "description": "A classic bengali style veg cutlet.",
+        "price": "169",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/40b71198-88de-4c0e-a1f4-ddb7762d4aab_6dccd67d-5110-4b5f-9877-97745fbb8398.jpeg"
+    },
+    {
+        "name": "Begun bhaaja [2 pieces]",
+        "description": "Sliced eggplant marinate with authentic bengali spices and deep fried.",
+        "price": "49",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/c3c8b488-c6da-4c84-bbfa-57b59aa7d170_35ec4c03-521c-4db0-88f7-585549e74c91.jpeg"
+    },
+    {
+        "name": "Beguni [2 pieces]",
+        "description": "Sliced eggplant coated with bengali gram flour and deep fried.",
+        "price": "79",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/91199cf2-54fe-4764-ba50-945d555119ce_c2bd8e00-f025-4de6-bfc1-b26646a849ef.jpeg"
+    },
+    {
+        "name": "Luchi [4 pieces]",
+        "description": "A classic maida puri in bengali style.",
+        "price": "104",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/7ba1fe1a-92e9-4b88-98c6-b133c912c664_d33178ad-7953-439e-aa54-2bb5845a42c8.jpeg"
+    },
+    {
+        "name": "Radhaballavi [2 pieces]",
+        "description": "These soft pooris are stuffed with a spiced dal filling.",
+        "price": "130",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/bb250dcb-4064-4d06-921d-155da2837fd8_60217fa4-f31d-41a5-bf83-ea710ef0e772.jpeg"
+    },
+    {
+        "name": "Bangla paratha [1 piece]",
+        "description": "Whole wheat triangular flatbread.",
+        "price": "52",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/57fe645f-52fd-4576-a44f-c7d2591c448e_4f91c55f-975b-46b0-aa73-5673f711749c.jpeg"
+    },
+    {
+        "name": "Dhakai pratha [1 piece]",
+        "description": "A paratha stuffed with dal paste and deep fried.",
+        "price": "65",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/f924d9b8-ba2e-4528-bed6-e0fba7ccc0be_40c22ad5-2c53-49b8-b8d7-0d754844e2be.jpeg"
+    },
+    {
+        "name": "Mutton Mughlai Paratha",
+        "description": "Non-veg item. Mutton Mughlai Paratha. Costs: 280 rupees, Swipe right to add item to cart.",
+        "price": "280",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/7c27714f-1606-4a2e-bc05-932f223d10a3_e561b05c-1195-4c38-b0d0-8d6245832e9d.jpg"
+    },
+    {
+        "name": "Chicken Mughlai Paratha",
+        "description": "Non-veg item. Chicken Mughlai Paratha. Costs: 250 rupees, Swipe right to add item to cart.",
+        "price": "250",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/7c27714f-1606-4a2e-bc05-932f223d10a3_e561b05c-1195-4c38-b0d0-8d6245832e9d.jpg"
+    },
+    {
+        "name": "Egg Mutton Roll",
+        "description": "Non-veg item. Egg Mutton Roll. Costs: 250 rupees, Swipe right to add item to cart.",
+        "price": "250",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/09f77116-c624-4622-8855-edcd3fc42088_e28c58aa-c85c-449d-a8ba-255870b9b61b.jpg"
+    },
+    {
+        "name": "Mutton Roll",
+        "description": "Non-veg item. Mutton Roll. Costs: 225 rupees, Swipe right to add item to cart.",
+        "price": "225",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/09f77116-c624-4622-8855-edcd3fc42088_e28c58aa-c85c-449d-a8ba-255870b9b61b.jpg"
+    },
+    {
+        "name": "egg Chicken Roll",
+        "description": "Non-veg item. egg Chicken Roll. Costs: 190 rupees, Swipe right to add item to cart.",
+        "price": "190",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/09f77116-c624-4622-8855-edcd3fc42088_e28c58aa-c85c-449d-a8ba-255870b9b61b.jpg"
+    },
+    {
+        "name": "Mughlai Paratha",
+        "description": "Veg Item. Mughlai Paratha. Costs: 220 rupees, Swipe right to add item to cart.",
+        "price": "220",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/7c27714f-1606-4a2e-bc05-932f223d10a3_e561b05c-1195-4c38-b0d0-8d6245832e9d.jpg"
+    },
+    {
+        "name": "Chicken Roll",
+        "description": "Non-veg item. Chicken Roll. Costs: 175 rupees, Swipe right to add item to cart.",
+        "price": "175",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/09f77116-c624-4622-8855-edcd3fc42088_e28c58aa-c85c-449d-a8ba-255870b9b61b.jpg"
+    },
+    {
+        "name": "Egg Roll",
+        "description": "A crispy and savory delight filled with scrambled eggs, perfect for a quick and satisfying meal on the go.",
+        "price": "150",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/09f77116-c624-4622-8855-edcd3fc42088_e28c58aa-c85c-449d-a8ba-255870b9b61b.jpg"
+    },
+    {
+        "name": "Paneer Mughlai Paratha",
+        "description": "Veg Item. Paneer Mughlai Paratha. Costs: 250 rupees, Swipe right to add item to cart.",
+        "price": "250",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/4/3/7c27714f-1606-4a2e-bc05-932f223d10a3_e561b05c-1195-4c38-b0d0-8d6245832e9d.jpg"
+    },
+    {
+        "name": "Basanti pulao",
+        "description": "A long grained fragrant basanti pulao with saffron, whole spices and dry fruits.",
+        "price": "260",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/12164325-1954-4864-979c-fba867889915_f1c215c9-d889-436f-9a8a-1f44fbc1d7a8.jpeg"
+    },
+    {
+        "name": "Steamed rice",
+        "description": "Fluffy, steamed white rice, a versatile staple perfect as a side dish or base for any meal.",
+        "price": "156",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/27/32e52805-b601-4778-b9e6-fe59ec0d5ae3_648160b8-f588-43d5-9914-a944d49f2500.JPG"
+    },
+    {
+        "name": "Peas pulao",
+        "description": "Green peas pulao in bengali style.",
+        "price": "219",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/16c2de09-7588-4b8b-b443-7e25e92a3b40_95327613-879c-4e2c-8280-fbbbc8fbc4ec.jpeg"
+    },
+    {
+        "name": "Ghee bhaat",
+        "description": "Long grained basmati rice mixed with desi ghee and green chillies flavour.",
+        "price": "195",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/27/bd39425e-c1db-4e8d-b04e-bc37f1c86094_b1687dd5-64b4-48c3-88f8-21385527f2c4.JPG"
+    },
+    {
+        "name": "Jeera rice",
+        "description": "Long grained basmati rice mixed flavour with cumins and desi ghee.",
+        "price": "195",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/12/231b99f0-107e-4b29-8e2a-8bb813cc8447_70c00b02-1962-4578-976a-3ea0d298558a.jpeg"
+    },
+    {
+        "name": "Mutton biryani kolkata style",
+        "description": "Long grained basmati rice, flavoured with exotic spices and saffron, layered with mutton cooked in dum served with aloo and egg.",
+        "price": "585",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/27/b14c708f-74e7-441c-8182-3fdb380aa8ac_78818bab-fbe0-48ab-a3b0-6810f25b5355.JPG"
+    },
+    {
+        "name": "Chicken biryani kolkata style",
+        "description": "Long grained basmati rice, flavoured with exotic spices and saffron, layered with chicken cooked in dum served with aloo and egg.",
+        "price": "390",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/11/ebe6044f-d50f-4bf8-8c8d-3f3ca9a5c3fe_a9995cf6-fc30-41ae-bc38-b2868129c476.JPG"
+    },
+    {
+        "name": "Sona moong dal motorsuti diye",
+        "description": "Moong dal roasted with ghee and cooked in bengali style.",
+        "price": "156",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/27/cb68e9f6-fba3-48bd-a940-db9f9311b7f2_f15940f4-7b70-4951-b7a5-2ca2d210c20d.JPG"
+    },
+    {
+        "name": "Cholar dal",
+        "description": "Chana dal tempered with spices, fried coconut and ghee.",
+        "price": "156",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/FOOD_CATALOG/IMAGES/CMS/2025/3/11/e0c9f7a4-1a7c-42f6-a188-f8a4866adb21_93766f30-338b-4239-ab6b-c3cf5134a5a4.JPG"
+    }
+]
