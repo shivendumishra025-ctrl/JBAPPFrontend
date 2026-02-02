@@ -37,3 +37,4 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+id_ed25519_second*
