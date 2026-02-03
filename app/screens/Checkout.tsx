@@ -1,13 +1,13 @@
+import AsyncStorage from "@react-native-async-storage/async-storage";
+import { useLocalSearchParams, useRouter } from "expo-router";
 import React from "react";
 import {
-  View,
-  Text,
-  TouchableOpacity,
   Alert,
   StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
 } from "react-native";
-import { useLocalSearchParams, useRouter } from "expo-router";
-import AsyncStorage from "@react-native-async-storage/async-storage";
 import RazorpayCheckout from "react-native-razorpay";
 import { useCart } from "../../Context/CartContext";
 
@@ -56,7 +56,10 @@ console.log("Amount:", amount);
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ amount }),
+          body: JSON.stringify({
+  amount: Math.round(amount * 100) // 143.50 → 14350
+}),
+
         }
       );
 
